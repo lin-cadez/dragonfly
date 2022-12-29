@@ -1,0 +1,72 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/include",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/src",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Arduino-ADXL345",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/I2Cdevlib-ADXL345",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/I2Cdevlib-Core",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Adafruit BMP085 Library",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Adafruit BusIO",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Adafruit Unified Sensor",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/SD/src",
+                "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/SD@0.0.0-alpha+sha.041f788250",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/include",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/src",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Arduino-ADXL345",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/I2Cdevlib-ADXL345",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/I2Cdevlib-Core",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Adafruit BMP085 Library",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Adafruit BusIO",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/Adafruit Unified Sensor",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/SD/src",
+                    "C:/Users/HP/Documents/vegova/Dragonfly/dragonfly/.pio/libdeps/uno/SD@0.0.0-alpha+sha.041f788250",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/HP/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

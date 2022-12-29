@@ -1,0 +1,6 @@
+adafruit/Adafruit Unified Sensor@^1.1.4
+adafruit/Adafruit BMP085 Library@^1.2.2
+adafruit/SD@0.0.0-alpha+sha.041f788250
+arduino-libraries/SD@^1.2.4
+jrowberg/I2Cdevlib-ADXL345@^1.0.0
+https://github.com/jarzebski/Arduino-ADXL345
